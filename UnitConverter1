@@ -45,7 +45,7 @@ public class UnitConverter1{
             default:
                 System.out.println("Invalid choice. Please choose 1, 2, or 3."); //reprompt user to enter the correct option if invalid choice was choosen
         }
-
+  System.out.println("Thank you for using our converter! Bye");
         scanner.close();
     }
 }
